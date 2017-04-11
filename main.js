@@ -1,11 +1,13 @@
 // Solve your homework here.
 
+document.getElementById('title').style.backgroundcolor = 'rebeccapurple';
+
 var greeting = 'Hello World!';
 console.log(greeting);
 
 let dog = 'moose';
 
-let salary = '500';
+let salary = 500;
 
 console.log(dog + ' makes $' + salary);
 
